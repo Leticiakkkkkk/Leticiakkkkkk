@@ -23,12 +23,5 @@
 ![](https://raw.githubusercontent.com/Leticiakkkkkk/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Leticiakkkkkk/github-stats-transparent/output/generated/languages.svg)
 ### 🎧 Tocando Spotify
-</h1>
-<! - Nada estranho de ver aqui ->
-<p align = "center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <! - Barras musicais movem-se no ritmo e são coloridas com base na alegria, dançabilidade e energia da faixa! ->
-    <img src = "https://andyruwruw.vercel.app/api/now-playing">
-  </a>
-</p>
+[![Spotify](https://leticiakkkkkk-leticiakkkkkk.vercel.app/)](https://open.spotify.com/user/je2q6gy7r48xmxuhizsyptahz)
 
