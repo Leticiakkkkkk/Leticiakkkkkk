@@ -23,5 +23,5 @@
 ![](https://raw.githubusercontent.com/Leticiakkkkkk/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Leticiakkkkkk/github-stats-transparent/output/generated/languages.svg)
 ### 🎧 Tocando Spotify
-[![Spotify](https://leticiakkkkkk-leticiakkkkkk.vercel.app/)](https://open.spotify.com/user/je2q6gy7r48xmxuhizsyptahz)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=je2q6gy7r48xmxuhizsyptahz&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
