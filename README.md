@@ -7,8 +7,6 @@
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@: Leticiakkkkkk"></a>
 <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
-<img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
-</p>
 <h1 align="center">Oiê, Eu sou a Letícia</h1>
 <h3 align="center">Apenas uma entusiasta pela programação</h3>
 <h3 align="left">Linguagens e ferramentas:</h3>
@@ -23,5 +21,5 @@
 ![](https://raw.githubusercontent.com/Leticiakkkkkk/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Leticiakkkkkk/github-stats-transparent/output/generated/languages.svg)
 ### 🎧 Tocando Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=je2q6gy7r48xmxuhizsyptahz&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://leticiakkkkkk-leticiakkkkkk.vercel.app/)](https://open.spotify.com/user/Leticiakkkkkk)
 
