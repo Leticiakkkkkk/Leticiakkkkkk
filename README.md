@@ -7,7 +7,7 @@
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@: Leticiakkkkkk"></a>
 <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
-<h1 align="center">Oiê, Eu sou a Letícia</h1>
+<h1 align="center">Oiê, Eu sou a Letícia!</h1>
 <h3 align="center">Apenas uma entusiasta pela programação</h3>
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
