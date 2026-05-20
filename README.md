@@ -27,5 +27,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=je2q6gy7r48xmxuhizsyptahz&cover_image=true&theme=default&bar_color=ff00ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=je2q6gy7r48xmxuhizsyptahz&redirect=true)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Leticiakkkkkk/Leticiakkkkkk/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Leticiakkkkkk/Leticiakkkkkk/output/pacman-contribution-graph-dark.svg">
 </p>
