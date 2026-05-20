@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/basmilius/weather-icons/dev/production/fill/all/rain.svg" width="90"/>
-</p>
-
 <p>
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@: Leticiakkkkkk"></a>
 <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
@@ -54,4 +50,5 @@ int main() {
         refine();
     }
 }
+
 
