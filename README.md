@@ -1,7 +1,6 @@
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Leticiakkkkkk/count.svg" />
-</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basmilius/weather-icons/dev/production/fill/all/rain.svg" width="90"/>
+</p>
 
 <p>
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@: Leticiakkkkkk"></a>
