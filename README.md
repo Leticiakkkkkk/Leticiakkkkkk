@@ -2,7 +2,7 @@
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@: Leticiakkkkkk"></a>
 </p>
 <p align="center">
-  <img src="https://svgshare.com/i/15vS.svg" alt="Letícia Celestino"/>
+ <h1 align="center">Letícia Celestino</h1>
 </p>
 
 <p align="center">
